@@ -8,7 +8,7 @@ Observe transitions using Logcat, Toast, and Snackbar.
 <img width="433" height="915" alt="image" src="https://github.com/user-attachments/assets/de2f6f3f-9530-4c9d-9f38-0c5d48201b64" />
 
 2. LogCat Output
-<img width="1736" height="196" alt="image" src="https://github.com/user-attachments/assets/400c1a6d-dce3-4185-9cd2-f6d8b613e302" />
+<img width="1028" height="342" alt="image" src="https://github.com/user-attachments/assets/3de50541-d1ba-449c-adb2-08df26083ecd" />
 
 3. onCreate State
 <img width="437" height="936" alt="image" src="https://github.com/user-attachments/assets/fede76d4-f52d-4a1f-a7d8-94448511891f" />
